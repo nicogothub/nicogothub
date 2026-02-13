@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data pipelines
 - 🌱 I’m currently learning unit tests
-- 👯 I’m looking to collaborate on APIs
+- 👯 I’m looking to collaborate on APIs.
+- 🏃‍♂️ I am working on a Strava API to analyse my running stats!
 - 🤔 I’m looking for help with my career change
 - 📫 How to reach me: LinkedIn
